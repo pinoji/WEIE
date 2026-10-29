@@ -1,0 +1,17 @@
+Temperature for WEIE: 298.15 K; R = 0.00198720425864 kcal mol^-1 K^-1
+Energy units: kcal/mol. Normal energy model: PB
+DH_normal = binding DELTA TOTAL (including solvation).
+Normal entropy = ordinary IE from the existing report, at its original calculation temperature.
+WEIE = RT ln <exp(deltaE_HP / RT)>; no factor of 1/2.
+HP mean treatment: subtract sample mean
+Root: /home/hideya/Desktop/AlkaneinCB7
+Folders found: 6
+
+Directory                N_HP   DH_normal  -TDS_normal_IE  TDS_normal_IE  -TDS_WEIE  HP_mean_input
+-----------------------  ----  ----------  --------------  -------------  ---------  -------------
+CBEthMD/batchAllNoWater  3600   -5.830000        1.450000      -1.450000   1.477885       0.000152
+CBHexMD/batchAllNoWater  3600  -19.510000        1.410000      -1.410000   1.380855       0.000189
+CBIsbMD/batchAllNoWater  3600  -11.610000        0.940000      -0.940000   0.921230       0.001611
+CBMthMD/batchAllNoWater  3600   -3.310000        1.740000      -1.740000   1.693961      -0.001203
+CBNeoMD/batchAllNoWater  3600  -13.220000        0.870000      -0.870000   0.903178      -0.000849
+CBProMD/batchAllNoWater  3600   -7.890000        0.740000      -0.740000   0.739678       0.000079

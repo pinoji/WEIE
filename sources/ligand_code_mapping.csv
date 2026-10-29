@@ -1,0 +1,17 @@
+manuscript_code,chemical_name,pdb_id,pdb_component_id,analysis_sheet
+BNZ,Benzene,181L,BNZ,BNZ
+BZF,Benzofuran,182L,BZF,BZF
+DEN,Indene,183L,DEN,DEN
+I4B,Isobutylbenzene,184L,I4B,I4B
+IND,Indole,185L,IND,IND
+N4B,n-Butylbenzene,186L,N4B,N4B
+PXE,p-Xylene,187L,PXY,PXE
+OXE,o-Xylene,188L,OXE,OXE
+CAQ,Catechol,1XEP,CAQ,CAOredo
+IPH,Phenol,1LI2,IPH,IPH
+JZ0,2-Methylphenol (o-cresol),3HT6,JZ0,JZ0
+JZ1,2-Ethylphenol,3HT7,JZ1,JZ1
+JZ2,5-Chloro-2-methylphenol,3HT8,JZ2,JZ2
+JZ3,2-Methoxyphenol (guaiacol),3HT9,JZ3,JZ3
+JZ4,2-Propylphenol,3HTB,JZ4,JZ4
+Lig,2-Ethoxyphenol,3HU8,261,Lig

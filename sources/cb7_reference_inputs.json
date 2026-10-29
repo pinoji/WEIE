@@ -1,0 +1,140 @@
+[
+  {
+    "guest": "Methane",
+    "experiment": -4.74,
+    "experimental_entropy_penalty": null,
+    "experimental_enthalpy": null,
+    "mm_baseline": -3.31,
+    "ie": 1.74,
+    "apr": [
+      -0.76,
+      -1.78
+    ],
+    "hp_N": 3600,
+    "hp_mean": -0.001203,
+    "source_directory": "CBMthMD",
+    "hydrophobe_guest_id": 1,
+    "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, experimental column",
+    "apr_source": "Assaf2017Hydrophobe SI Tables S4 (MD1) and S5 (MD2), calculated DG column"
+  },
+  {
+    "guest": "Ethane",
+    "experiment": -4.82,
+    "experimental_entropy_penalty": null,
+    "experimental_enthalpy": null,
+    "mm_baseline": -5.83,
+    "ie": 1.45,
+    "apr": [
+      -3.8,
+      -4.91
+    ],
+    "hp_N": 3600,
+    "hp_mean": 0.000152,
+    "source_directory": "CBEthMD",
+    "hydrophobe_guest_id": 2,
+    "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, experimental column",
+    "apr_source": "Assaf2017Hydrophobe SI Tables S4 (MD1) and S5 (MD2), calculated DG column"
+  },
+  {
+    "guest": "Propane",
+    "experiment": -5.15,
+    "experimental_entropy_penalty": null,
+    "experimental_enthalpy": null,
+    "mm_baseline": -7.89,
+    "ie": 0.74,
+    "apr": [
+      -8.34,
+      -8.6
+    ],
+    "hp_N": 3600,
+    "hp_mean": 7.9e-05,
+    "source_directory": "CBProMD",
+    "hydrophobe_guest_id": 5,
+    "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, experimental column",
+    "apr_source": "Assaf2017Hydrophobe SI Tables S4 (MD1) and S5 (MD2), calculated DG column"
+  },
+  {
+    "guest": "Isobutane",
+    "experiment": -7.4,
+    "experimental_entropy_penalty": null,
+    "experimental_enthalpy": null,
+    "mm_baseline": -11.61,
+    "ie": 0.94,
+    "apr": [
+      -12.04,
+      -11.33
+    ],
+    "hp_N": 3600,
+    "hp_mean": 0.001611,
+    "source_directory": "CBIsbMD",
+    "hydrophobe_guest_id": 11,
+    "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, experimental column",
+    "apr_source": "Assaf2017Hydrophobe SI Tables S4 (MD1) and S5 (MD2), calculated DG column"
+  },
+  {
+    "guest": "Neopentane",
+    "experiment": -8.19,
+    "experimental_entropy_penalty": null,
+    "experimental_enthalpy": null,
+    "mm_baseline": -13.22,
+    "ie": 0.87,
+    "apr": [
+      -14.91,
+      -14.86
+    ],
+    "hp_N": 3600,
+    "hp_mean": -0.000849,
+    "source_directory": "CBNeoMD",
+    "hydrophobe_guest_id": 15,
+    "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, experimental column",
+    "apr_source": "Assaf2017Hydrophobe SI Tables S4 (MD1) and S5 (MD2), calculated DG column"
+  },
+  {
+    "guest": "Cyclohexane",
+    "experiment": -8.43,
+    "experimental_entropy_penalty": null,
+    "experimental_enthalpy": null,
+    "mm_baseline": -19.51,
+    "ie": 1.41,
+    "apr": [
+      -17.32,
+      -18.03
+    ],
+    "hp_N": 3600,
+    "hp_mean": 0.000189,
+    "source_directory": "CBHexMD",
+    "hydrophobe_guest_id": 19,
+    "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, ID 19",
+    "apr_source": "Assaf2017Hydrophobe SI Table S4 (S22), ID 19; Table S5 (S23), ID 19"
+  },
+  {
+    "guest": "AdH",
+    "experiment": -12.74,
+    "experimental_entropy_penalty": null,
+    "experimental_enthalpy": null,
+    "mm_baseline": -25.92,
+    "ie": 2.37,
+    "apr": [
+      -24.85,
+      -24.63
+    ],
+    "hp_N": 3600,
+    "hp_mean": -0.003645374166666664,
+    "kT_source": 0.5922
+  },
+  {
+    "guest": "AdOH",
+    "experiment": -14.2,
+    "experimental_entropy_penalty": 5.2,
+    "experimental_enthalpy": -19.4,
+    "mm_baseline": -27.63,
+    "ie": 4.08,
+    "apr": [
+      -23.1
+    ],
+    "apr_enthalpy": -25.9,
+    "hp_N": 3600,
+    "hp_mean": 0.0006639883333333371,
+    "kT_source": 0.5922
+  }
+]

@@ -1,0 +1,273 @@
+{
+  "systems": [
+    {
+      "guest": "Methane",
+      "experiment": -4.74,
+      "experimental_entropy_penalty": null,
+      "experimental_enthalpy": null,
+      "mm_baseline": -3.31,
+      "ie": 1.74,
+      "apr": [
+        -0.76,
+        -1.78
+      ],
+      "hp_N": 3600,
+      "hp_mean": -0.001203,
+      "source_directory": "CBMthMD",
+      "hydrophobe_guest_id": 1,
+      "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, experimental column",
+      "apr_source": "Assaf2017Hydrophobe SI Tables S4 (MD1) and S5 (MD2), calculated DG column",
+      "weie": 1.693961,
+      "mm_steg": -1.655,
+      "mmpbsa": -1.57,
+      "dh_steg": -3.348961,
+      "signed_errors": {
+        "mm_steg": 3.085,
+        "mmpbsa": 3.17
+      },
+      "apr_signed_errors": [
+        3.9800000000000004,
+        2.96
+      ]
+    },
+    {
+      "guest": "Ethane",
+      "experiment": -4.82,
+      "experimental_entropy_penalty": null,
+      "experimental_enthalpy": null,
+      "mm_baseline": -5.83,
+      "ie": 1.45,
+      "apr": [
+        -3.8,
+        -4.91
+      ],
+      "hp_N": 3600,
+      "hp_mean": 0.000152,
+      "source_directory": "CBEthMD",
+      "hydrophobe_guest_id": 2,
+      "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, experimental column",
+      "apr_source": "Assaf2017Hydrophobe SI Tables S4 (MD1) and S5 (MD2), calculated DG column",
+      "weie": 1.477885,
+      "mm_steg": -2.915,
+      "mmpbsa": -4.38,
+      "dh_steg": -4.392885,
+      "signed_errors": {
+        "mm_steg": 1.9050000000000002,
+        "mmpbsa": 0.4400000000000004
+      },
+      "apr_signed_errors": [
+        1.0200000000000005,
+        -0.08999999999999986
+      ]
+    },
+    {
+      "guest": "Propane",
+      "experiment": -5.15,
+      "experimental_entropy_penalty": null,
+      "experimental_enthalpy": null,
+      "mm_baseline": -7.89,
+      "ie": 0.74,
+      "apr": [
+        -8.34,
+        -8.6
+      ],
+      "hp_N": 3600,
+      "hp_mean": 7.9e-05,
+      "source_directory": "CBProMD",
+      "hydrophobe_guest_id": 5,
+      "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, experimental column",
+      "apr_source": "Assaf2017Hydrophobe SI Tables S4 (MD1) and S5 (MD2), calculated DG column",
+      "weie": 0.739678,
+      "mm_steg": -3.945,
+      "mmpbsa": -7.15,
+      "dh_steg": -4.684678,
+      "signed_errors": {
+        "mm_steg": 1.2050000000000005,
+        "mmpbsa": -2.0
+      },
+      "apr_signed_errors": [
+        -3.1899999999999995,
+        -3.4499999999999993
+      ]
+    },
+    {
+      "guest": "Isobutane",
+      "experiment": -7.4,
+      "experimental_entropy_penalty": null,
+      "experimental_enthalpy": null,
+      "mm_baseline": -11.61,
+      "ie": 0.94,
+      "apr": [
+        -12.04,
+        -11.33
+      ],
+      "hp_N": 3600,
+      "hp_mean": 0.001611,
+      "source_directory": "CBIsbMD",
+      "hydrophobe_guest_id": 11,
+      "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, experimental column",
+      "apr_source": "Assaf2017Hydrophobe SI Tables S4 (MD1) and S5 (MD2), calculated DG column",
+      "weie": 0.92123,
+      "mm_steg": -5.805,
+      "mmpbsa": -10.67,
+      "dh_steg": -6.726229999999999,
+      "signed_errors": {
+        "mm_steg": 1.5950000000000006,
+        "mmpbsa": -3.2699999999999996
+      },
+      "apr_signed_errors": [
+        -4.639999999999999,
+        -3.9299999999999997
+      ]
+    },
+    {
+      "guest": "Neopentane",
+      "experiment": -8.19,
+      "experimental_entropy_penalty": null,
+      "experimental_enthalpy": null,
+      "mm_baseline": -13.22,
+      "ie": 0.87,
+      "apr": [
+        -14.91,
+        -14.86
+      ],
+      "hp_N": 3600,
+      "hp_mean": -0.000849,
+      "source_directory": "CBNeoMD",
+      "hydrophobe_guest_id": 15,
+      "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, experimental column",
+      "apr_source": "Assaf2017Hydrophobe SI Tables S4 (MD1) and S5 (MD2), calculated DG column",
+      "weie": 0.903178,
+      "mm_steg": -6.61,
+      "mmpbsa": -12.35,
+      "dh_steg": -7.513178,
+      "signed_errors": {
+        "mm_steg": 1.5799999999999992,
+        "mmpbsa": -4.16
+      },
+      "apr_signed_errors": [
+        -6.720000000000001,
+        -6.67
+      ]
+    },
+    {
+      "guest": "Cyclohexane",
+      "experiment": -8.43,
+      "experimental_entropy_penalty": null,
+      "experimental_enthalpy": null,
+      "mm_baseline": -19.51,
+      "ie": 1.41,
+      "apr": [
+        -17.32,
+        -18.03
+      ],
+      "hp_N": 3600,
+      "hp_mean": 0.000189,
+      "source_directory": "CBHexMD",
+      "hydrophobe_guest_id": 19,
+      "experimental_source": "Assaf2017Hydrophobe SI Tables S4/S5, ID 19",
+      "apr_source": "Assaf2017Hydrophobe SI Table S4 (S22), ID 19; Table S5 (S23), ID 19",
+      "weie": 1.380855,
+      "mm_steg": -9.755,
+      "mmpbsa": -18.1,
+      "dh_steg": -11.135855000000001,
+      "signed_errors": {
+        "mm_steg": -1.325000000000001,
+        "mmpbsa": -9.670000000000002
+      },
+      "apr_signed_errors": [
+        -8.89,
+        -9.600000000000001
+      ]
+    },
+    {
+      "guest": "AdH",
+      "experiment": -12.74,
+      "experimental_entropy_penalty": null,
+      "experimental_enthalpy": null,
+      "mm_baseline": -25.92,
+      "ie": 2.37,
+      "apr": [
+        -24.85,
+        -24.63
+      ],
+      "hp_N": 3600,
+      "hp_mean": -0.003645374166666664,
+      "kT_source": 0.5922,
+      "weie": 2.2854894065707674,
+      "mm_steg": -12.96,
+      "mmpbsa": -23.55,
+      "dh_steg": -15.24548940657077,
+      "signed_errors": {
+        "mm_steg": -0.22000000000000064,
+        "mmpbsa": -10.81
+      },
+      "apr_signed_errors": [
+        -12.110000000000001,
+        -11.889999999999999
+      ]
+    },
+    {
+      "guest": "AdOH",
+      "experiment": -14.2,
+      "experimental_entropy_penalty": 5.2,
+      "experimental_enthalpy": -19.4,
+      "mm_baseline": -27.63,
+      "ie": 4.08,
+      "apr": [
+        -23.1
+      ],
+      "apr_enthalpy": -25.9,
+      "hp_N": 3600,
+      "hp_mean": 0.0006639883333333371,
+      "kT_source": 0.5922,
+      "weie": 4.105959552429405,
+      "mm_steg": -13.815,
+      "mmpbsa": -23.55,
+      "dh_steg": -17.920959552429405,
+      "signed_errors": {
+        "mm_steg": 0.3849999999999998,
+        "mmpbsa": -9.350000000000001
+      },
+      "apr_signed_errors": [
+        -8.900000000000002
+      ],
+      "dh_steg_error": 1.4790404475705934
+    }
+  ],
+  "statistics": {
+    "mm_steg": {
+      "N": 8,
+      "MSE": 1.0262499999999997,
+      "MAE": 1.4125,
+      "RMSE": 1.6428234080387338,
+      "Spearman": 1.0
+    },
+    "mmpbsa": {
+      "N": 8,
+      "MSE": -4.456250000000001,
+      "MAE": 5.358750000000001,
+      "RMSE": 6.519475630754363,
+      "Spearman": 0.9940297973880048
+    }
+  },
+  "subset_statistics": {
+    "alkanes": {
+      "mm_steg": {
+        "N": 6,
+        "MSE": 1.3408333333333333,
+        "MAE": 1.7825000000000004,
+        "RMSE": 1.8883116356505707,
+        "Spearman": 1.0
+      },
+      "mmpbsa": {
+        "N": 6,
+        "MSE": -2.581666666666667,
+        "MAE": 3.785,
+        "RMSE": 4.756572645648686,
+        "Spearman": 1.0
+      }
+    }
+  },
+  "estimator": "G_STEG=L/2; G_PBSA_IE=source endpoint (T4), L+IE (CB7); H_STEG=G_STEG-WEIE"
+}
